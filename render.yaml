@@ -1,5 +1,5 @@
 services:
-  - type: API
+  - type: web
     name: ApiCuentas
     env: python
     plan: free
