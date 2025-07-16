@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ApiCuentas
+    name: api-cuentas
     env: python
     plan: free
     branch: main
